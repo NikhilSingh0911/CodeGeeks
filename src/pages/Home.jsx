@@ -204,7 +204,7 @@ function Home() {
               provide feedback, there are many ways you can contribute to
               CodeGeeks. Join us in building a great platform for everyone!
             </p>
-            <Link to="https://github.com/Rishabh-1098git/CodeGeeks">
+            <Link to="https://github.com/NikhilSingh0911/CodeGeeks">
               <button className="bg-sd-medium h-12 w-40 rounded-3xl font-mono font-bold hover:bg-yellow-400 transition duration-300 text-blue-900">
                 Contribute Now
               </button>
